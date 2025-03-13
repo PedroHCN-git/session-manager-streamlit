@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Pedro Henrique Corradini Nunes",
+      "author_email": "pedro.hcorradini05@gmail.com",
+      "project_name": "Streamlit Session Manager",
+      "package_name": "streamlit-session-manager",
+      "import_name": "streamlit_session_manager",
+      "description": "this component allows you to manager you session storage",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "n",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+      "_commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87"
+    }
+  },
+  "directory": null
+}
