@@ -32,13 +32,3 @@ def get_item(
         key=key,
         action=_action
     )
-
-
-def main():
-    # set_item("chave", "valor")
-    value = get_item("chave")
-    st.write(value)
-
-
-if __name__ == "__main__":
-    main()
